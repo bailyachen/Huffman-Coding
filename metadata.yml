@@ -1,0 +1,14 @@
+---
+:id: 18346580
+:submitters:
+- :name: Baily Chen
+  :email: bac028@ucsd.edu
+- :name: William Henry Knox
+  :email: wknox@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-05-21 06:24:51.775868000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-05-20 23:24:51.775868000 Z
+:status: processed
+:score: 71.5
